@@ -1,0 +1,6 @@
+calendar1:
+  name: My first awesome calendar
+  url: https://myawesomeurl.com/ical/my_calendar.ics
+calendar2:
+  name: My second awesome calendar
+  url: https://somerandomurl.com/ical/some_calendar.ics

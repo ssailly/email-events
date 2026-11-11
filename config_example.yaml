@@ -1,0 +1,6 @@
+SMTP_SERVER: smtp.gmail.com
+SMTP_PORT: 465
+USERNAME: local@gmail.com
+PASSWORD: GLaDOS
+TO: local@gmail.com
+SUBJECT: Upcoming Events
